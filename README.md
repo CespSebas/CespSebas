@@ -33,15 +33,11 @@ Desarrollador full-stack enfocado en backend y automatización, construyendo apl
 
 ## 🚀 Proyectos destacados
 
-<!--
-  PENDIENTE: agregar filas a esta tabla a medida que definamos qué proyectos entran.
-  Formato sugerido por fila:
-  | [Nombre](link-al-repo) | Qué hace en una línea | Stack | Rol |
--->
-
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| _por definir_ | _por definir_ | _por definir_ |
+| [Carnices](https://github.com/CespSebas/carnices-showcase) | Sistema full-stack de gestión para carnicería: catálogo de productos, pedidos y reseñas | Angular · Node.js/Express · Prisma · MySQL |
+| [Panel de Facturas CARNICES](https://github.com/CespSebas/panel-facturas-carnices) | Automatización del ciclo completo de facturación electrónica de Hacienda (Costa Rica): XML → PDF → envío por correo | Python · watchdog · IMAP/SMTP · PyInstaller |
+| [Comercializadora Caces de Oro](https://github.com/CespSebas/comercializadora-caces-de-oro-showcase) | Sitio web de catálogo para un negocio de aderezos y productos artesanales, con marca asociada | HTML5 · CSS3 · JavaScript |
 
 ## 📫 Contacto
 
