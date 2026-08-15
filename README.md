@@ -17,7 +17,7 @@ Grecia, Costa Rica · Estudiante de Bachillerato en Ingeniería de Software (UTN
 
 ## 🧭 Sobre mí
 
-Desarrollador full-stack enfocado en backend y automatización, construyendo aplicaciones de negocio reales (gestión de ventas, facturación, portales de clientes) con Angular, NestJS y Prisma. Combino ingeniería de software con automatización en Python para eliminar trabajo manual repetitivo.
+Desarrollador full-stack enfocado en backend y automatización, construyendo aplicaciones de negocio reales (gestión de ventas, facturación, portales de clientes) con Angular, NestJS y Prisma. Combino ingeniería de software con automatización en Python para eliminar trabajo manual repetitivo, aplicando principios de **Lean Six Sigma (Green Belt)** para identificar cuellos de botella y optimizar procesos antes de automatizarlos.
 
 ## 🛠️ Stack
 
@@ -30,6 +30,8 @@ Desarrollador full-stack enfocado en backend y automatización, construyendo apl
 **Bases de datos:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **DevOps y herramientas:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Metodologías:** ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-0052CC?style=flat-square&logo=jira&logoColor=white) ![Lean Six Sigma](https://img.shields.io/badge/-Lean%20Six%20Sigma%20(GB)-2E8B57?style=flat-square) ![Clean Code](https://img.shields.io/badge/-Clean%20Code-000000?style=flat-square) ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-333333?style=flat-square)
 
 ## 🚀 Proyectos destacados
 
