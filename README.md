@@ -37,6 +37,7 @@ Desarrollador full-stack enfocado en backend y automatización, construyendo apl
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [App de Operaciones — Unicomer](https://github.com/CespSebas/repo_personal_proyectos_concluidos/blob/main/proyectos/app-operaciones-unicomer.md) 🔒 | Práctica profesional (en curso): migración de una app interna a arquitectura web | Angular · Java 21 · Spring Boot · PostgreSQL · Flyway |
 | [Carnices](https://github.com/CespSebas/carnices-showcase) | Sistema full-stack de gestión para emprendimiento | Angular · Node.js/Express · Prisma · MySQL |
 | [Panel de Facturas CARNICES](https://github.com/CespSebas/panel-facturas-carnices) | Automatización del ciclo completo de facturación electrónica de Hacienda  | Python · watchdog · IMAP/SMTP · PyInstaller |
 | [Comercializadora Caces de Oro](https://github.com/CespSebas/comercializadora-caces-de-oro-showcase) | Sitio web de catálogo para una empresa  | HTML5 · CSS3 · JavaScript |
