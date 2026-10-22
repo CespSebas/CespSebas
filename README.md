@@ -42,6 +42,8 @@ Desarrollador full-stack enfocado en backend y automatización, construyendo apl
 | [Panel de Facturas CARNICES](https://github.com/CespSebas/panel-facturas-carnices) | Automatización del ciclo completo de facturación electrónica de Hacienda  | Python · watchdog · IMAP/SMTP · PyInstaller |
 | [Comercializadora Caces de Oro](https://github.com/CespSebas/comercializadora-caces-de-oro-showcase) | Sitio web de catálogo para una empresa  | HTML5 · CSS3 · JavaScript |
 
+📂 **[Ver índice completo de proyectos](https://github.com/CespSebas/repo_personal_proyectos_concluidos)**: incluye los proyectos con código privado, cada uno con una ficha breve de stack y funcionalidad.
+
 ## 📫 Contacto
 
 - ✉️ [sc163876@gmail.com](mailto:sc163876@gmail.com)
