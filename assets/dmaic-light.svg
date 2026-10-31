@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Método DMAIC: Definir, Medir, Analizar, Mejorar, Controlar">
+  <line x1="154.0" x2="326.0" y1="48" y2="48" stroke="#e1ded5" stroke-width="2"/><path d="M318.0,43 l8,5 l-8,5" fill="none" stroke="#6b7186" stroke-width="2"/>
+  <rect x="94.0" y="22" width="52" height="52" rx="14" fill="#c4442b17" stroke="#c4442b" stroke-opacity=".5"/>
+  <text x="120.0" y="58" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="24" font-weight="700" fill="#c4442b">D</text>
+  <text x="120.0" y="104" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13203b">Definir</text>
+  <text x="120.0" y="126" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#6b7186">el problema real</text>
+  <line x1="394.0" x2="566.0" y1="48" y2="48" stroke="#e1ded5" stroke-width="2"/><path d="M558.0,43 l8,5 l-8,5" fill="none" stroke="#6b7186" stroke-width="2"/>
+  <rect x="334.0" y="22" width="52" height="52" rx="14" fill="#c4442b17" stroke="#c4442b" stroke-opacity=".5"/>
+  <text x="360.0" y="58" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="24" font-weight="700" fill="#c4442b">M</text>
+  <text x="360.0" y="104" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13203b">Medir</text>
+  <text x="360.0" y="126" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#6b7186">cuánto cuesta hoy</text>
+  <line x1="634.0" x2="806.0" y1="48" y2="48" stroke="#e1ded5" stroke-width="2"/><path d="M798.0,43 l8,5 l-8,5" fill="none" stroke="#6b7186" stroke-width="2"/>
+  <rect x="574.0" y="22" width="52" height="52" rx="14" fill="#c4442b17" stroke="#c4442b" stroke-opacity=".5"/>
+  <text x="600.0" y="58" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="24" font-weight="700" fill="#c4442b">A</text>
+  <text x="600.0" y="104" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13203b">Analizar</text>
+  <text x="600.0" y="126" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#6b7186">el cuello de botella</text>
+  <line x1="874.0" x2="1046.0" y1="48" y2="48" stroke="#e1ded5" stroke-width="2"/><path d="M1038.0,43 l8,5 l-8,5" fill="none" stroke="#6b7186" stroke-width="2"/>
+  <rect x="814.0" y="22" width="52" height="52" rx="14" fill="#c4442b17" stroke="#c4442b" stroke-opacity=".5"/>
+  <text x="840.0" y="58" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="24" font-weight="700" fill="#c4442b">I</text>
+  <text x="840.0" y="104" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13203b">Mejorar</text>
+  <text x="840.0" y="126" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#6b7186">con software</text>
+  <rect x="1054.0" y="22" width="52" height="52" rx="14" fill="#2e7a5814" stroke="#2e7a58" stroke-opacity=".5"/>
+  <text x="1080.0" y="58" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="24" font-weight="700" fill="#2e7a58">C</text>
+  <text x="1080.0" y="104" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#13203b">Controlar</text>
+  <text x="1080.0" y="126" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#6b7186">que el resultado dure</text>
+</svg>

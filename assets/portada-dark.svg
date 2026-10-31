@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Sebastián Céspedes · Convierto cuellos de botella en software">
+  <style>
+    .serie { stroke-dasharray: 1; stroke-dashoffset: 1; animation: trazo 2.2s ease-out .3s forwards; }
+    .p { opacity: 0; animation: aparecer .4s ease forwards; }
+    .pulso { animation: pulso 2.2s ease-in-out infinite; transform-origin: 66px 64px; }
+    @keyframes trazo { to { stroke-dashoffset: 0; } }
+    @keyframes aparecer { to { opacity: 1; } }
+    @keyframes pulso { 0%,100% { opacity: .35; transform: scale(1); } 50% { opacity: 0; transform: scale(2.2); } }
+    @media (prefers-reduced-motion: reduce) { .serie { stroke-dashoffset: 0; animation: none; } .p { opacity: 1; animation: none; } .pulso { animation: none; opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="#0d1117" stroke="#253150"/>
+
+  <circle class="pulso" cx="66" cy="64" r="5" fill="#4cc08c"/>
+  <circle cx="66" cy="64" r="5" fill="#4cc08c"/>
+  <text x="82" y="69" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#8b93a9" letter-spacing=".5">ABIERTO A OPORTUNIDADES DE EMPLEO · GRECIA, COSTA RICA</text>
+
+  <text x="58" y="148" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" fill="#eef1f8" letter-spacing="-1.5">Sebastián Céspedes</text>
+  <text x="60" y="204" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="31" font-weight="700" fill="#eef1f8" letter-spacing="-.5">Convierto cuellos de botella <tspan fill="#ff7b5c">en software.</tspan></text>
+  <text x="60" y="252" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#c2c8d8">Full-Stack · Backend · Automatización de procesos</text>
+  <text x="60" y="282" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#c2c8d8">Lean Six Sigma Green Belt · Ingeniería de Software (UTN)</text>
+
+  <rect x="760" y="34" width="410" height="276" rx="14" fill="#111a2e" stroke="#253150"/>
+  <text x="782" y="62" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" fill="#8b93a9">gráfico de control · tiempo del proceso</text>
+  <rect x="965.0" y="84" width="185.0" height="212" rx="4" fill="#4cc08c1c"/>
+  <line x1="780" x2="965.0" y1="127.3" y2="127.3" stroke="#ff7b5c" stroke-dasharray="5 5" opacity=".6"/>
+  <line x1="780" x2="965.0" y1="233.1" y2="233.1" stroke="#ff7b5c" stroke-dasharray="5 5" opacity=".6"/>
+  <line x1="965.0" x2="1150" y1="162.6" y2="162.6" stroke="#4cc08c" stroke-dasharray="5 5" opacity=".85"/>
+  <line x1="965.0" x2="1150" y1="197.8" y2="197.8" stroke="#4cc08c" stroke-dasharray="5 5" opacity=".85"/>
+  <line x1="780" x2="1150" y1="180.2" y2="180.2" stroke="#8b93a9" opacity=".6"/>
+  <line x1="965.0" x2="965.0" y1="84" y2="296" stroke="#eef1f8" stroke-dasharray="2 4" opacity=".5"/>
+  <text x="971.0" y="292" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="11" font-weight="600" fill="#4cc08c">mejora</text>
+  <polyline class="serie" pathLength="1" points="790.0,170.4 805.2,221.4 820.4,143.0 835.7,195.9 850.9,119.4 866.1,209.6 881.3,164.5 896.5,241.0 911.7,137.1 927.0,186.1 942.2,111.6 957.4,201.8 972.6,176.3 987.8,184.1 1003.0,178.2 1018.3,174.3 1033.5,186.1 1048.7,180.2 1063.9,182.2 1079.1,176.3 1094.3,184.1 1109.6,178.2 1124.8,180.2 1140.0,182.2" fill="none" stroke="#eef1f8" stroke-width="1.6" stroke-linejoin="round" opacity=".55"/>
+  <circle class="p" style="animation-delay:0.50s" cx="790.0" cy="170.4" r="4" fill="#111a2e" stroke="#eef1f8" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:0.57s" cx="805.2" cy="221.4" r="4" fill="#111a2e" stroke="#eef1f8" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:0.64s" cx="820.4" cy="143.0" r="4" fill="#111a2e" stroke="#eef1f8" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:0.71s" cx="835.7" cy="195.9" r="4" fill="#111a2e" stroke="#eef1f8" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:0.78s" cx="850.9" cy="119.4" r="5.5" fill="#ff7b5c" stroke="#ff7b5c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:0.85s" cx="866.1" cy="209.6" r="4" fill="#111a2e" stroke="#eef1f8" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:0.92s" cx="881.3" cy="164.5" r="4" fill="#111a2e" stroke="#eef1f8" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:0.99s" cx="896.5" cy="241.0" r="5.5" fill="#ff7b5c" stroke="#ff7b5c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.06s" cx="911.7" cy="137.1" r="4" fill="#111a2e" stroke="#eef1f8" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.13s" cx="927.0" cy="186.1" r="4" fill="#111a2e" stroke="#eef1f8" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.20s" cx="942.2" cy="111.6" r="5.5" fill="#ff7b5c" stroke="#ff7b5c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.27s" cx="957.4" cy="201.8" r="4" fill="#111a2e" stroke="#eef1f8" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.34s" cx="972.6" cy="176.3" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.41s" cx="987.8" cy="184.1" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.48s" cx="1003.0" cy="178.2" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.55s" cx="1018.3" cy="174.3" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.62s" cx="1033.5" cy="186.1" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.69s" cx="1048.7" cy="180.2" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.76s" cx="1063.9" cy="182.2" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.83s" cx="1079.1" cy="176.3" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.90s" cx="1094.3" cy="184.1" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:1.97s" cx="1109.6" cy="178.2" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:2.04s" cx="1124.8" cy="180.2" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+  <circle class="p" style="animation-delay:2.11s" cx="1140.0" cy="182.2" r="4" fill="#4cc08c" stroke="#4cc08c" stroke-width="1.6"/>
+</svg>

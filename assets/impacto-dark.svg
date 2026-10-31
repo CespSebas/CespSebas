@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Impacto: −30% operaciones manuales, más de 99% de disponibilidad, 40% más rápido detectando errores de precio, más de 4 horas al mes de conciliación eliminadas">
+  <rect x="1" y="1" width="1198" height="148" rx="16" fill="#111a2e" stroke="#253150"/>
+  <text x="34.0" y="72" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="40" font-weight="700" fill="#eef1f8" letter-spacing="-1.5">−30<tspan font-size="20" fill="#ff7b5c" dx="4">%</tspan></text>
+  <text x="34.0" y="102" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93a9">operaciones manuales</text>
+  <text x="34.0" y="122" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93a9">por área</text><line x1="300.0" x2="300.0" y1="22" y2="128" stroke="#253150"/>
+  <text x="334.0" y="72" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="40" font-weight="700" fill="#eef1f8" letter-spacing="-1.5">>99<tspan font-size="20" fill="#ff7b5c" dx="4">%</tspan></text>
+  <text x="334.0" y="102" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93a9">disponibilidad</text>
+  <text x="334.0" y="122" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93a9">en herramientas de gestión</text><line x1="600.0" x2="600.0" y1="22" y2="128" stroke="#253150"/>
+  <text x="634.0" y="72" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="40" font-weight="700" fill="#eef1f8" letter-spacing="-1.5">40<tspan font-size="20" fill="#ff7b5c" dx="4">%</tspan></text>
+  <text x="634.0" y="102" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93a9">más rápido detectando</text>
+  <text x="634.0" y="122" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93a9">errores de precio</text><line x1="900.0" x2="900.0" y1="22" y2="128" stroke="#253150"/>
+  <text x="934.0" y="72" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="40" font-weight="700" fill="#eef1f8" letter-spacing="-1.5">4+<tspan font-size="20" fill="#ff7b5c" dx="4">h/mes</tspan></text>
+  <text x="934.0" y="102" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93a9">de conciliación manual</text>
+  <text x="934.0" y="122" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93a9">eliminadas</text>
+</svg>
