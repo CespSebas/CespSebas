@@ -9,7 +9,7 @@
 Grecia, Costa Rica · Estudiante de Bachillerato en Ingeniería de Software (UTN, 2022–actualidad)
 
 [![Email](https://img.shields.io/badge/Email-sc163876%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sc163876@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-andr%C3%A9s-c%C3%A9spedes-quesada-52971a2ab/)
 
 </div>
 
